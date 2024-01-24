@@ -1,4 +1,11 @@
-.footer
+nav
+{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color: black;
+}
+
+footer
 {
     text-align: center;
     background-color: brown;
